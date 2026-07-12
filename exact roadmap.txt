@@ -1,0 +1,17 @@
+1. Python fundamentals (because everything depends on it). 
+
+2. Git (use it from day one). 
+
+3. APIs and automation (you'll quickly build useful tools and stay motivated). 
+
+4. SQL (to work with real data). 
+
+5. pandas and NumPy (to process that data). 
+
+6. Core machine learning with scikit-learn (to learn the modeling workflow). 
+
+7. LLM APIs and AI integration (these skills are in high demand for building AI-powered applications).
+
+8. Docker and cloud deployment (to make your projects production-ready). 
+
+9. PyTorch and deeper neural network concepts (to understand and eventually customize or train advanced models).

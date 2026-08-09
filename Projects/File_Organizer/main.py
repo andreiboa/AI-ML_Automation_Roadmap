@@ -13,4 +13,3 @@ else:
     print(f"Organizing files in {folder_path}...")
     organizer.organize_folder(folder_path)
     print(f"Files in {folder_path} have been organized successfully.")
-

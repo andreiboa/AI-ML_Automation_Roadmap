@@ -22,4 +22,4 @@ with file_path.open("a") as file:
 with file_path.open("r") as file:
     updated_content = file.read()
 
-print(f"Updated content: \n{updated_content}")
+print(f"Updated contents: \n{updated_content}")

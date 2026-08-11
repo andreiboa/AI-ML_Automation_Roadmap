@@ -2,7 +2,7 @@
 
 2. Git (use it from day one). 
 
-3. APIs and automation (you'll quickly build useful tools and stay motivated). 
+3. JSON, APIs, and automation (you'll quickly build useful tools and stay motivated). 
 
 4. SQL (to work with real data). 
 

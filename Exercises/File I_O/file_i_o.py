@@ -23,3 +23,5 @@ with file_path.open("r") as file:
     updated_content = file.read()
 
 print(f"Updated contents: \n{updated_content}")
+
+print("This change exists only on git-practice.")

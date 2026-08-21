@@ -24,4 +24,4 @@ with file_path.open("r") as file:
 
 print(f"Updated contents: \n{updated_content}")
 
-print("This change comes from conflict-practice.")
+print("Conflict branch made another change.")

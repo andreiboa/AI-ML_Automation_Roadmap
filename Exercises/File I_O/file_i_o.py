@@ -24,4 +24,4 @@ with file_path.open("r") as file:
 
 print(f"Updated contents: \n{updated_content}")
 
-print("This change comes from main.")
+print("Main and conflict-practice both changed this line.")

@@ -24,4 +24,8 @@ with file_path.open("r") as file:
 
 print(f"Updated contents: \n{updated_content}")
 
-print("Main and conflict-practice both changed this line.")
+print(f"Main and conflict-practice both changed this line. \n"
+      f"This change exists only on git-practice. \n"
+      f"Pull request practice. \n \n"
+      f"This exercise practiced branching, committing, pushing, pull requests, merging, and resolving conflicts.")
+
